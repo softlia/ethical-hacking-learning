@@ -19,8 +19,7 @@ Learn to manage files and directories with Linux commands.
 
 
 ## Practice Summary:
-- Created, copied, moved, and deleted test files.
-- Learned that `rm -r` can remove whole folders recursively.
+- Created all practice folders in ~/projects/ethical-hacking-learning/day2_practice
 - Created day2_practice folder with subfolders reports, backups, scripts.
 - Created, copied, moved, and deleted test files.
 - Learned that rm -r can remove whole folders recursively.
@@ -30,4 +29,3 @@ Learn to manage files and directories with Linux commands.
 - I’m getting more confident using the CLI.
 - Need to remember to check paths before deleting.
 - Learned how to manage files and directories using commands like mkdir, touch, cp, mv, rm, and stat. Practiced creating, copying, and deleting files. Feeling more comfortable moving around Linux!
-
