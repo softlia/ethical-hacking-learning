@@ -23,4 +23,4 @@ Learn to manage files and directories with Linux commands.
 ## Reflection:
 - I’m getting more confident using the CLI.
 - Need to remember to check paths before deleting.
-
+- Learned how to manage files and directories using commands like mkdir, touch, cp, mv, rm, and stat. Practiced creating, copying, and deleting files. Feeling more comfortable moving around Linux!
