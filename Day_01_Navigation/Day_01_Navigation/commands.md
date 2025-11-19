@@ -1,4 +1,6 @@
 # Day 1 Commands
+
+```bash
 pwd
 ls
 ls -la
@@ -11,3 +13,4 @@ cd day1_practice
 touch file1.txt
 echo "Day 1 Practice" > file1.txt
 cat file1.txt
+
